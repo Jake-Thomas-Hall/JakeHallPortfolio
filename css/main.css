@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(231, 231, 231);
+}
+
 .darkBG {
     background: rgb(104, 104, 104);
 }
@@ -16,4 +20,17 @@
 .sidePadding {
     padding-left: 25px;
     padding-right: 25px;
+}
+.margin20 {
+    margin-bottom: 20px;
+}
+.pcpp-part-list {
+    color: white;
+    background-color: rgb(133, 133, 133);
+}
+.linkStyle {
+    color: white;
+}
+.linkStyle:hover {
+    color: rgb(163, 163, 163);
 }
