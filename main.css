@@ -1,0 +1,19 @@
+.darkBG {
+    background: rgb(104, 104, 104);
+}
+.darkerBG {
+    background: rgb(59, 59, 59);
+}
+.darkestBG {
+    background: rgb(29, 29, 29);
+}
+.smallImage {
+    width: 30%;
+}
+.largerCardFont {
+    font-size: 18px;
+}
+.sidePadding {
+    padding-left: 25px;
+    padding-right: 25px;
+}
