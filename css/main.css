@@ -2,6 +2,20 @@ body {
     background-color: rgb(231, 231, 231);
 }
 
+p {
+    font-weight: 300!important;
+}
+
+h3 {
+    font-weight: 300!important;
+}
+
+/* Centres and makes the images used in cards cover the entire element */
+div.card.card-img-top {
+    background-position: center;
+    background-size: cover;
+}
+
 .darkBG {
     background: rgb(104, 104, 104);
 }
